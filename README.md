@@ -11,6 +11,10 @@ The primary goal was to solidify understanding of JavaScript basics in a fun, in
 Course: [SuperSimpleDev 24-hour JavaScript Course](https://www.youtube.com/@SuperSimpleDev)
 Specific Video: [JavaScript Full Course for free  beginners to advanced (2024)](https://youtu.be/EerdGm-ehJQ?si=QyrpuI7kZWtkTDVK)
 
+## Demo
+
+![Rock Paper Scissors Gameplay](./resources/rock-paper-scissors.gif)
+
 ## Features
 
 *   Play Rock, Paper, or Scissors against the computer.
@@ -26,13 +30,13 @@ Specific Video: [JavaScript Full Course for free  beginners to advanced (2024)](
 
 ## Screenshots
 
-*(You can add screenshots of your game in action here!)*
+**Game Interface:**
 
-1.  **Game Interface:**
-    [Insert Screenshot of the main game page]
+![Game Interface](./resources/ss-1.png)
 
-2.  **Reset Score Confirmation:**
-    [Insert Screenshot of the reset confirmation dialog]
+**Reset Score Confirmation:**
+
+![Reset Score Confirmation](./resources/ss-2.png)
 
 ## How to Play
 
