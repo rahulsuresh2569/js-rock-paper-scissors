@@ -2,14 +2,11 @@
 
 A simple and fun Rock Paper Scissors game built with HTML, CSS, and vanilla JavaScript.
 
-## About This Project
-
-This project was created as a learning exercise while working through the JavaScript tutorial by SuperSimpleDev. It was a great way to get hands-on experience with fundamental JavaScript concepts, DOM manipulation, and event handling.
+This project was created as a learning exercise while working through the JavaScript YouTube tutorial by [SuperSimpleDev](https://www.youtube.com/@SuperSimpleDev). It was a great way to get hands-on experience with fundamental JavaScript concepts, DOM manipulation, and event handling.
 
 The primary goal was to solidify understanding of JavaScript basics in a fun, interactive way.
 
-Course: [SuperSimpleDev 24-hour JavaScript Course](https://www.youtube.com/@SuperSimpleDev)
-Specific Video: [JavaScript Full Course for free  beginners to advanced (2024)](https://youtu.be/EerdGm-ehJQ?si=QyrpuI7kZWtkTDVK)
+Course Video: [JavaScript Full Course for free  beginners to advanced (2024)](https://youtu.be/EerdGm-ehJQ?si=QyrpuI7kZWtkTDVK)
 
 ## Demo
 
@@ -31,8 +28,8 @@ Specific Video: [JavaScript Full Course for free  beginners to advanced (2024)](
 ## Screenshots
 
 <p align="center">
-  <img src="./resources/ss-1.png" alt="Game Interface" width="400"/>
-  <img src="./resources/ss-2.png" alt="Reset Score Confirmation" width="400"/>
+  <img src="./resources/ss-1.png" alt="Game Interface" width="400" height="440"/>
+  <img src="./resources/ss-2.png" alt="Reset Score Confirmation" width="400" height="440"/>
 </p>
 
 ## How to Play
