@@ -30,13 +30,10 @@ Specific Video: [JavaScript Full Course for free  beginners to advanced (2024)](
 
 ## Screenshots
 
-**Game Interface:**
-
-![Game Interface](./resources/ss-1.png)
-
-**Reset Score Confirmation:**
-
-![Reset Score Confirmation](./resources/ss-2.png)
+<p align="center">
+  <img src="./resources/ss-1.png" alt="Game Interface" width="400"/>
+  <img src="./resources/ss-2.png" alt="Reset Score Confirmation" width="400"/>
+</p>
 
 ## How to Play
 
